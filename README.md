@@ -10,5 +10,5 @@ ENB Portfolio Finance is a Shares Tracker App. It allows a user to view the curr
 
 ### Contact
 
-Email: ewan.cruickshank91@googlemail.com<b>
-LinkedIn: www.linkedin.com/in/ewancruickshank91
+<b>Email:<b> ewan.cruickshank91@googlemail.com<br>
+<b>LinkedIn:<b> www.linkedin.com/in/ewancruickshank91
