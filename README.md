@@ -8,6 +8,8 @@ I'm a Junior Software Developer based in Glasgow. I'm currently looking for role
 
 <a href=https://youtu.be/ytmQLcLkD7w>ENB Portfolio Finance</a> is a Shares Tracker App. It allows a user to view the current prices of shares on the NASDAQ and compares the shares saved to the portfolio against the current price to show the profit/loss of each trade. You can also view a chart to check a shares performance over a long period of time. 
 
+Music Elephant is a Music Theory Educational App. It allows the users to progress through lessons on music theory and provides 3 levels of quizzes after each topic. At the end of each level, the user is faced with a quiz that encompasses all previous topic at all levels, known as a boss level.
+
 ### Contact
 
 <b>Email:<b> ewan.cruickshank91@googlemail.com<br>
