@@ -4,6 +4,8 @@ I'm a Junior Software Developer based in Glasgow. I'm currently looking for role
 
 ### Projects
 
+Unity Pokemon Game is a personal project I'm working on to learn C# and Unity. My plan is to implement all the features from a Pokemon Game in the future.
+
 <a href=https://youtu.be/R3GZs2y-3nc>Sunnyside Travel App</a> is a Travel Bucket List App. It allows a user to add Countries, Cities and Sights to an SQLite database. The user is also able to mark each destination as visited or unvisited as well as viewing a page of all visited and unvisited locations.
 
 <a href=https://youtu.be/ytmQLcLkD7w>ENB Portfolio Finance</a> is a Shares Tracker App. It allows a user to view the current prices of shares on the NASDAQ and compares the shares saved to the portfolio against the current price to show the profit/loss of each trade. You can also view a chart to check a shares performance over a long period of time. 
