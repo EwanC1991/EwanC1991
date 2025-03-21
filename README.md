@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a Junior Software Developer based in Glasgow. I'm currently looking for roles in the Tech Industry. I've recently finished my studies for a Personal Development Award through the CodeClan Professional Software Development Course. 
+I'm a Junior Unity Developer based in Elgin. I work for Hunted Cow Studios
 
 ### Projects
 
